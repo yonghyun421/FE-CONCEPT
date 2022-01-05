@@ -9,6 +9,9 @@
 - AWS란?
 - Libraries vs Frameworks
 - pwa란?
+- .call, .apply
+- fetch, axios
+- mutable, immutable
 
 ## Git
 
