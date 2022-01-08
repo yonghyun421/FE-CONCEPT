@@ -39,6 +39,9 @@
 - 리액트를 사용하는 이유
 - 불변의 법칙
 - SSR 과 CSR
+- useLayoutEffetc
+- Virtual DOM
+- Webpack
 
 ## Redux
 
